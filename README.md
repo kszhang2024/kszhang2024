@@ -11,7 +11,7 @@
       <th>Projects</th>
   </tr>
   <tr>
-      <td>
+      <td style="padding: 20px">
         <strong>
           Hey, I'm Kayson Zhang!
           <!-- This is provided by others -->
@@ -24,7 +24,7 @@
           <li>⚡ MyBlog: <a href="www.zcsheng.xyz">zcsheng.xyz</a></li>
         </ul>
       </td>
-      <td>
+      <td style="padding: 20px">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszhang2024&layout=compact">
         </a>
