@@ -19,8 +19,8 @@
         <ul>
           <li>🔭 A Passionate Learner</li>
           <li>🌱 I’m currently learning React&&TS</li>
-          <li>📫 How to reach me: <a href="kszhang2024@gmail.com">kszhang2024@gmail.com</a></li>
-          <li>⚡ MyBlog: <a href="www.zcsheng.xyz">zcsheng.xyz</a></li>
+          <li>📫 How to reach me: <a href="http://kszhang2024@gmail.com">kszhang2024@gmail.com</a></li>
+          <li>⚡ MyBlog: <a href="http://zcsheng.xyz">zcsheng.xyz</a></li>
         </ul>
       </td>
       <td>
