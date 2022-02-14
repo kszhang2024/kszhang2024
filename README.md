@@ -12,26 +12,22 @@
   </tr>
   <tr>
       <td>
-        <div style="margin: 30px;">
-          <h3>
-            Hey, I'm Kayson Zhang!
-            <!-- This is provided by others -->
-            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-          </h3>
-          <ul>
-            <li>🔭 A Passionate Learner</li>
-            <li>🌱 I’m currently learning React&&TS</li>
-            <li>📫 How to reach me: <a href="kszhang2024@gmail.com">kszhang2024@gmail.com</a></li>
-            <li>⚡ MyBlog: <a href="www.zcsheng.xyz">zcsheng.xyz</a></li>
-          </ul>
-        </div>
+        <strong>
+          Hey, I'm Kayson Zhang!
+          <!-- This is provided by others -->
+          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+        </strong>
+        <ul>
+          <li>🔭 A Passionate Learner</li>
+          <li>🌱 I’m currently learning React&&TS</li>
+          <li>📫 How to reach me: <a href="kszhang2024@gmail.com">kszhang2024@gmail.com</a></li>
+          <li>⚡ MyBlog: <a href="www.zcsheng.xyz">zcsheng.xyz</a></li>
+        </ul>
       </td>
       <td>
-        <div style="margin: 30px;">
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszhang2024&layout=compact">
-          </a>
-        </div>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszhang2024&layout=compact">
+        </a>
       </td>
   </tr>
 </table>
