@@ -12,7 +12,7 @@
   </tr>
   <tr>
       <td>
-        <div style="padding: 30px;">
+        <div style="margin: 30px;">
           <h3>
             Hey, I'm Kayson Zhang!
             <!-- This is provided by others -->
@@ -27,7 +27,7 @@
         </div>
       </td>
       <td>
-        <div style="padding: 30px;">
+        <div style="margin: 30px;">
           <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszhang2024&layout=compact">
           </a>
