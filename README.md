@@ -41,7 +41,7 @@
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-<a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-dcdcdc.svg?logo=vue.js&logoColor=OC08DFB"></a>
+<a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-4e5969.svg?logo=vue.js&logoColor=OC08DFB"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
@@ -49,7 +49,7 @@
 <h3>Learing: </h3>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-dcdcdc.svg?logo=vue.js&logoColor=OC08DFB"></a>
+<a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-4e5969.svg?logo=vue.js&logoColor=OC08DFB"></a>
 <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
 
 <h2>🔥 Streak stats</h2>
