@@ -5,18 +5,18 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<table>
+<table cellpadding="10">
   <tr>
       <th>Base Info</th>
       <th>Projects</th>
   </tr>
   <tr>
-      <td style="padding: 10px">
+      <td>
         <strong>
           Hey, I'm Kayson Zhang!
           <!-- This is provided by others -->
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-        </strong>
+        </strong></br></br>
         <ul>
           <li>🔭 A Passionate Learner</li>
           <li>🌱 I’m currently learning React&&TS</li>
@@ -24,7 +24,7 @@
           <li>⚡ MyBlog: <a href="www.zcsheng.xyz">zcsheng.xyz</a></li>
         </ul>
       </td>
-      <td style="padding: 10px">
+      <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszhang2024&layout=compact">
         </a>
