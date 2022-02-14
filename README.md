@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<table cellpadding="10">
+<table cellpadding="30">
   <tr>
       <th>Base Info</th>
       <th>Projects</th>
