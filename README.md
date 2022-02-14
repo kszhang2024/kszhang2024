@@ -7,12 +7,12 @@
 
 <table>
   <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
+      <th>Base Info</th>
+      <th>Projects</th>
   </tr>
   <tr>
       <td>
-        <div style="margin: 10px;">
+        <div style="padding: 30px;">
           <h3>
             Hey, I'm Kayson Zhang!
             <!-- This is provided by others -->
@@ -27,7 +27,7 @@
         </div>
       </td>
       <td>
-        <div style="margin: 10px;">
+        <div style="padding: 30px;">
           <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszhang2024&layout=compact">
           </a>
@@ -38,7 +38,7 @@
 
 <h2>🛠️ My Tools</h2>
 
-<h3>I Can Use: </h3>
+<h3>Using: </h3>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
@@ -49,7 +49,7 @@
 <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
 
-<h3>Learing:</h3>
+<h3>Learing: </h3>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
 
