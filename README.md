@@ -9,10 +9,10 @@
   <!-- This is provided by others -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p>🔭 I’m a student now</p><br/>
-<p>🌱 I’m currently learning React&&TS</p><br/>
-<p>📫 How to reach me: <a href="kszhang2024@gmail.com">kszhang2024@gmail.com</a></p><br/>
-<p>⚡ MyBlog: <a href="www.zcsheng.xyz">zcsheng.xyz</a></p><br/>
+<p>🔭 I’m a student now</p>
+<p>🌱 I’m currently learning React&&TS</p>
+<p>📫 How to reach me: <a href="kszhang2024@gmail.com">kszhang2024@gmail.com</a></p>
+<p>⚡ MyBlog: <a href="www.zcsheng.xyz">zcsheng.xyz</a></p>
 
 
 <h2>🛠️ My Tools</h2>
