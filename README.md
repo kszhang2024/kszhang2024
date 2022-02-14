@@ -1,15 +1,23 @@
-<h3 align="center">
-    Welcome to Kayson Zhang's profile!
-    <!-- This is provided by others -->
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile!"></a>
 </p>
-  
-  
-<h3>Tooling</h3>
+<hr/>
+
+<h2>About Me</h2>
+<hr/>
+<h3 align="center">
+  Welcome to Kayson Zhang's profile!
+  <!-- This is provided by others -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p>🔭 I’m a student now</p><br/>
+<p>🌱 I’m currently learning React&&TS</p><br/>
+<p>📫 How to reach me: <a href="kszhang2024@gmail.com">kszhang2024@gmail.com</a></p><br/>
+<p>⚡ MyBlog: <a href="www.zcsheng.xyz">zcsheng.xyz</a></p><br/>
+
+
+<h2>🛠️ My Tools</h2>
+<hr/>
 <strong>Languages and Tools:</strong>  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -25,16 +33,8 @@
   </a>
 </p>
 
-  <!-- - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ... -->
-
-### 🔥 Streak stats
+<h2>🔥 Streak stats</h2>
+<hr/>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=kszhang2024&theme=react-dark">
