@@ -17,7 +17,7 @@ Hey, I'm Kayson Zhang!
 </ul>
 
 <h2>🛠️ My Tools</h2>
-<strong>Languages and Tools:</strong>  
+<h3>Languages and Tools:</h3>  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -26,7 +26,7 @@ Hey, I'm Kayson Zhang!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://api-platform.com/static/74e20e175f4d908bbc0f1e2af28d3d66/Logo_Circle%20webby%20blue.svg"></code>
 
-<p align="center">
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszhang2024&layout=compact">
 </a>
