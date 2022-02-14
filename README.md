@@ -3,9 +3,8 @@
 </p>
 <hr/>
 
-<h2>About Me</h2>
-<hr/>
-<h3 align="center">
+<h2>👨‍💻 About Me</h2>
+<h3>
   Welcome to Kayson Zhang's profile!
   <!-- This is provided by others -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -17,7 +16,6 @@
 
 
 <h2>🛠️ My Tools</h2>
-<hr/>
 <strong>Languages and Tools:</strong>  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -34,7 +32,6 @@
 </p>
 
 <h2>🔥 Streak stats</h2>
-<hr/>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=kszhang2024&theme=react-dark">
