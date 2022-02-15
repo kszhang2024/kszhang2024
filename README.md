@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<table>
+<table border="1">
   <tr>
       <th>Base Info</th>
       <th>Projects</th>
